@@ -116,6 +116,10 @@ main {
 
 @media only screen and (max-width: 800px) {
 
+    h1 {
+        max-width: 60%;
+        margin: 0 auto;
+    }
     header p {
         display: none;
     }
