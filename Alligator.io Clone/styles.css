@@ -117,8 +117,9 @@ main {
 @media only screen and (max-width: 800px) {
 
     h1 {
-        max-width: 60%;
+        max-width: 60vw;
         margin: 0 auto;
+        font-size: 2rem;
     }
     header p {
         display: none;
